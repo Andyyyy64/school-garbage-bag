@@ -1,0 +1,36 @@
+コマンド echo "The University of Aizu since 1993." | sed -e "s/[TUA]/_/g"
+実行例 _he _niversity of _izu since 1993.
+
+コマンド grep "^l.*cy$" /usr/share/dict/words | less
+実行例 labiomancy
+lactescency
+lacy
+lairdocracy
+lambency
+landocracy
+latency
+latitancy
+lecanomancy
+legacy
+legitimacy
+leniency
+leucophlegmacy
+levancy
+lieutenancy
+lieutenant-colonelcy
+liquescency
+literacy
+lithomancy
+locum-tenency
+logarithmomancy
+logocracy
+logomancy
+loquency
+lord-lieutenancy
+low-frequency
+lucency
+lucy
+lunacy
+luxuriancy
+lychnomancy
+

@@ -1,0 +1,68 @@
+学籍番号: s1300107
+氏名: ロッシアンディ拓也
+実行したプログラム
+- hello.c
+-suukei.pl
+-shuukei-fh.pl
+-js.html
+-hello.php
+------
+hello.c
+出典: コンピュータリテラシー資料に掲載
+言語: C言語
+実行方法: gccコマンドでコンパイルし、./a.outで実行
+実行結果:
+$ ./a.out 
+0:Hello world.
+1:Hello world.
+2:Hello world.
+3:Hello world.
+4:Hello world.
+5:Hello world.
+6:Hello world.
+7:Hello world.
+8:Hello world.
+9:Hello world.
+
+suukei.pl
+出典:コンピュータリテラシー資料に掲載
+言語: perl
+実行方法: cat studentlist | perl shuukei.pl 
+実行結果:
+m 160 55
+m 170 65
+m 175 70
+m 172 60
+f 150 48
+f 160 52
+f 145 45
+male average = 62.50 kg, female average = 48.33 kg
+
+shuukei-fh.pl
+出典:コンピュータリテラシー資料に掲載
+言語: perl
+実行方法: $ perl shuukei-fh.pl 
+$ cat out.data
+実行結果:
+m 160 55
+m 170 65
+m 175 70
+m 172 60
+f 150 48
+f 160 52
+f 145 45
+male average = 62.50 kg, female average = 48.33 kg
+
+js.html
+出典:自力
+言語: javascript
+実行方法: $ firefox js.html &
+実行結果:web
+
+hello.php
+出典:コンピュータリテラシー資料に掲載
+言語: php
+実行方法: コンピュータリテラシー資料に掲載
+実行結果:web
+
+

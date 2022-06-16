@@ -1,0 +1,8 @@
+コマンド ls einstein*
+実行例 einstein.jpg  einstein.odp  einstein.pdf  einstein.swf  einstein.sxi
+
+コマンド ls ConstitutionOf*
+実行例 ConstitutionOfAizu.txt  ConstitutionOfJapan.txt  ConstitutionOfJapan.txt.bak  ConstitutionOfUS.txt
+
+コマンド ls ConstitutionOf*txt
+実行例 ConstitutionOfAizu.txt  ConstitutionOfJapan.txt  ConstitutionOfUS.txt

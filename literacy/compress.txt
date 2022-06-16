@@ -1,0 +1,31 @@
+pokemon1.png
+png
+118836
+zip
+zip pokemon1.zip pokemon1.png
+118026
+99%
+
+pokemon1.png
+png
+118836
+gzip
+gzip pokemon1.png
+117883
+99%
+
+pokemon2.jpeg
+jpeg
+194954
+zip
+zip pokemon2.zip pokemon2.jpeg
+169619
+87%
+
+pokemon2.jpeg
+jpeg
+194954
+gzip
+gzip pokemon2.jpeg
+169475
+86%

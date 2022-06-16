@@ -1,0 +1,57 @@
+lrwxrwxrwx. 1 root root             5 May 11  2019 bunzip2 -> bzip2
+lrwxrwxrwx. 1 root root             5 May 11  2019 bzcat -> bzip2
+-rwxr-xr-x. 1 root root         38472 May 11  2019 bzip2
+-rwxr-xr-x. 1 root root         17560 May 11  2019 bzip2recover
+-rwxr-xr-x  1 root root         37496 Jan 28 14:09 funzip
+-rwxr-xr-x. 1 root root          3525 May 16  2020 gpg-zip
+-rwxr-xr-x  1 root root          2345 Jan 14  2021 gunzip
+-rwxr-xr-x  1 root root         97168 Jan 14  2021 gzip
+lrwxrwxrwx. 1 root root             6 May 12  2019 mzip -> mtools
+-rwxr-xr-x  1 root root          5656 Oct 26 22:06 preunzip
+-rwxr-xr-x  1 root root          5656 Oct 26 22:06 prezip
+-rwxr-xr-x  1 root root         12136 Oct 26 22:06 prezip-bin
+-rwxr-xr-x  2 root root        206704 Jan 28 14:09 unzip
+-rwxr-xr-x  1 root root        103896 Jan 28 14:09 unzipsfx
+-rwxr-xr-x. 1 root root        234496 May 12  2019 zip
+-rwxr-xr-x. 1 root root        105376 May 12  2019 zipcloak
+-rwxr-xr-x  1 root root         50576 May 14  2019 zipdetails
+-rwxr-xr-x  1 root root          2953 Oct 11  2008 zipgrep
+-rwxr-xr-x  2 root root        206704 Jan 28 14:09 zipinfo
+-rwxr-xr-x. 1 root root        100104 May 12  2019 zipnote
+-rwxr-xr-x. 1 root root        100112 May 12  2019 zipsplit
+lrwxrwxrwx  1 root root             9 Dec  4 18:16 dvipdfm -> xdvipdfmx
+lrwxrwxrwx  1 root root             9 Dec  4 18:16 dvipdfmx -> xdvipdfmx
+-rwxr-xr-x  1 root root          2688 Dec  4 18:15 dvipdft
+lrwxrwxrwx  1 root root             9 Dec  4 18:16 ebb -> xdvipdfmx
+lrwxrwxrwx  1 root root             6 Dec  4 18:16 etex -> pdftex
+lrwxrwxrwx  1 root root             9 Dec  4 18:16 extractbb -> xdvipdfmx
+lrwxrwxrwx  1 root root             6 Dec  4 18:19 latex -> pdftex
+lrwxrwxrwx  1 root root            61 Dec  4 18:19 mptopdf -> /usr/share/texlive/texmf-dist/scripts/context/perl/mptopdf.pl
+-rwxr-xr-x  1 root root           698 Dec  2  2020 pdf2dsc
+-rwxr-xr-x  1 root root           909 Dec  2  2020 pdf2ps
+-rwxr-xr-x  1 root root         21184 Sep 18  2021 pdfattach
+-rwxr-xr-x  1 root root         29568 Sep 18  2021 pdfdetach
+lrwxrwxrwx  1 root root             6 Dec  4 18:16 pdfetex -> pdftex
+-rwxr-xr-x  1 root root         21424 Sep 18  2021 pdffonts
+-rwxr-xr-x  1 root root         50608 Sep 18  2021 pdfimages
+-rwxr-xr-x  1 root root         55096 Sep 18  2021 pdfinfo
+lrwxrwxrwx  1 root root             6 Dec  4 18:19 pdflatex -> pdftex
+-rwxr-xr-x  1 root root         21168 Sep 18  2021 pdfseparate
+-rwxr-xr-x  1 root root         29544 Sep 18  2021 pdfsig
+-rwxr-xr-x  1 root root        823216 Dec  4 18:16 pdftex
+-rwxr-xr-x  1 root root          1303 Sep 13  2017 pdftexi2dvi
+-rwxr-xr-x  1 root root        160352 Sep 18  2021 pdftocairo
+-rwxr-xr-x  1 root root        130816 Sep 18  2021 pdftohtml
+-rwxr-xr-x  1 root root         37800 Sep 18  2021 pdftoppm
+-rwxr-xr-x  1 root root         29584 Sep 18  2021 pdftops
+-rwxr-xr-x  1 root root         46552 Sep 18  2021 pdftotext
+-rwxr-xr-x  1 root root         42040 Sep 18  2021 pdfunite
+-rwxr-xr-x  1 root root           272 Dec  2  2020 ps2pdf
+-rwxr-xr-x  1 root root           215 Dec  2  2020 ps2pdf12
+-rwxr-xr-x  1 root root           215 Dec  2  2020 ps2pdf13
+-rwxr-xr-x  1 root root           215 Dec  2  2020 ps2pdf14
+-rwxr-xr-x  1 root root          1097 Dec  2  2020 ps2pdfwr
+lrwxrwxrwx  1 root root            57 Dec  4 18:16 simpdftex -> /usr/share/texlive/texmf-dist/scripts/simpdftex/simpdftex
+-rwxr-xr-x  1 root root          1303 Sep 13  2017 texi2pdf
+lrwxrwxrwx  1 root root            58 Dec  4 18:19 thumbpdf -> /usr/share/texlive/texmf-dist/scripts/thumbpdf/thumbpdf.pl
+-rwxr-xr-x  1 root root        792856 Dec  4 18:16 xdvipdfmx

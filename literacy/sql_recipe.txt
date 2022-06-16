@@ -1,0 +1,13 @@
+select distinct Name from RecipeList where Name like '%Chips%';
+Potato Chips
+Sweet Potato Chips
+
+select RecipeList.Name from FoodList,RecipeList where Food=FoodList.ID and FoodList.Name='Potato';
+Curry
+Potato Chips
+Salad
+
+
+select sum(price*Quantity) from FoodList,RecipeList where Food=FoodList.ID and RecipeList.Name='Curry';
+360
+

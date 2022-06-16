@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <title>Hello World</title>
+    <style>
+      body{
+        background-color:#5a5b5c;
+      }
+      button{
+        width:265px; height:225px; background-color:#abcdef;font-size:20pt;
+      }
+      #main{
+        text-align: center
+      }
+    </style>
+    <script type="text/javascript">
+      function updateTime(index){
+      var dd = new Date();
+      
+      if(index==1){
+        jikan1.innerHTML=dd.toLocaleString();
+      }
+      if(index==2){
+        jikan2.innerHTML=dd.toLocaleString();
+      }
+      
+      }
+    </script>
+  </head>
+  <body>
+    <div id="main">
+    <button type=button tabindex="1" accesskey="1"
+            onClick='updateTime(1);'><span id="jikan1"> jikan1 </span><br>
+    </button><br>
+    <button type=button tabindex="2" accesskey="2"
+            style='background-color:#cdabed;'
+            onClick='updateTime(2);'><span id="jikan2"> jikan2 </span><br>
+    </button>
+    </div>
+  </body>
+</html>
