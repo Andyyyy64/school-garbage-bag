@@ -1,0 +1,1 @@
+echo "The University of Aizu since 1993." | sed -e "s/[TUA]/_/g"

@@ -1,0 +1,32 @@
+\documentclass[platex,a4paper,12pt,dvipdfmx]{jsarticle}
+\title{{\LaTeX}演習課題}
+\author{s1300107ロッシアンディ拓也}
+\begin{document}
+\maketitle
+この文書は{\LaTeX}の演習課題として作成されたものである。
+
+\section{\LaTeX}
+LATEX はコンピュータ理工学分野で広く利用されている学術論文や技術文書を作成する
+ための文書整形システム（組版処理システム）である。Stanford University の Donald E.
+Knuth が 1978 年に発表した組版エンジン・組版言語の TeX を核として、DEC (Digital
+Equipment Corporation) のコンピュータサイエンティスト Leslie Lamport によって機
+能強化する形で開発された。
+コンピュータリテラシーのハンドアウト [1] によれば、LATEX は以下のような要素を簡
+単に取り扱うことができるとされている。
+\\• 数式
+\\• 箇条書き
+\\• 表
+\\• 画像の貼り付け
+\\• 引用文献
+\\• プレゼンテーション資料作成
+\section{落体の運動}
+\subsection{万有引力}
+落体がなぜ落ちるかといえば、それは重力が作用しているからに他ならない。質量 M
+の物体 A と質量 m の物体 B の間に作用する万有引力の大きさは
+\[F = G\frac{Mm}{r^2} \]
+であり、その向きは 2 物体の中心を結ぶベクトル\[\vec{r} = \vec{r_A} - \vec{e_B} \]の向きである。ただし、G
+は重力定数,\[r = \vec {r} \]
+\begin{thebibliography}{99}
+\bibitem{lit} 2022年度コンピュータリテラシー, コンピュータリテラシー教員グループ, 2022.
+\end{thebibliography}
+\end{document}

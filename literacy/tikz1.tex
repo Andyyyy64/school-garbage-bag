@@ -1,0 +1,15 @@
+\documentclass[platex,a4paper,12pt,dvipdfmx]{jsarticle}
+\usepackage{tikz}
+\begin{document}
+\begin{frame}{}
+\begin{tikzpicture}
+  \node (a) at  (0,0){A};
+  \node (b) at  (4,0){B};
+  \node (c) at  (8,0){C};
+  \node (d) at  (4,-2){D};
+  \draw [->,thick] (a)--node[fill=white] {line}(b);
+  \draw [<->,thick] (b)--(c);
+  \draw [->,thick] (c)--(d)--(a);
+\end{tikzpicture}
+\end{frame}
+\end{document}

@@ -1,0 +1,23 @@
+\documentclass[platex,a4paper,12pt,dvipdfmx,aspectratio=169]{beamer}
+\usetheme{default}
+\usepackage{color}
+
+\begin{document}
+\frame{\frametitle{Itemize}
+\begin{itemize}
+\item 箇条書き
+\item itemize や enumerateを使う
+\begin{enumerate}
+\item 入れ子も可能
+\item 字下げ (インデント)される
+\end{enumerate}
+\end{itemize}
+}
+
+\frame{\frametitle{tex $\rightarrow $ dvi $\rightarrow $ pdf}
+\begin{enumerate}
+\item  (tex $\rightarrow $ dvi): platex slide.tex 
+\item  (dvi $\rightarrow $ pdf ): dvipdfmx slide.dvi
+\end{enumerate} 
+}
+\end{document}

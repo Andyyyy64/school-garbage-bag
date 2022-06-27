@@ -1,0 +1,73 @@
+\documentclass[platex,a4paper,12pt,dvipdfmx,aspectratio=169]{beamer}
+\usetheme{default}
+\usepackage{xcolor}
+
+\title{beamer プレゼンテーションサンプル}
+\subtitle{LI01 Computer Literacy}
+\author{Computer Literacy 教員}
+
+\institute{会津大学}
+\begin{document}
+
+\frame{
+\titlepage
+}
+
+\frame{\frametitle{Title 1}
+このページの本文
+}
+
+\begin{frame}{Title 2}
+frame環境で作成したページ
+\end{frame}
+
+\frame{\frametitle{Itemize}
+\begin{itemize}
+\item 箇条書き
+\item itemize や enumerateを使う
+\begin{enumerate}
+\item 入れ子も可能
+\item 字下げ (インデント)される
+\end{enumerate}
+\end{itemize}
+}
+
+\frame{\frametitle{tex $\rightarrow $ dvi $\rightarrow $ pdf}
+\begin{enumerate}
+\item  (tex $\rightarrow $ dvi): platex slide.tex 
+\item  (dvi $\rightarrow $ pdf ): dvipdfmx slide.dvi
+\end{enumerate} 
+}
+
+\begin{frame}{Equation}
+\begin{itemize}
+\item  式もいれることができる
+\begin{equation} \pi = 4\arctan(1) \end{equation}
+\item \textcolor{violet}{文字色も変えることができる}
+\item \colorbox{lightgray}{背景色も変えることができる}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Figure and Table}
+
+\includegraphics[width=4zw]{/home/course/literacy/pub/sample/FIGURE/uoa_logo.png}
+
+\begin{itemize}
+\item  図も入れることができる
+\item  表も入れることができる
+\end{itemize}
+
+\begin{tabular}{rclp{5em}}
+  \hline
+  Column1    & Column2 & Column3 & Column4\\
+  \hline
+   Right    & Left & Center &  MMMMM\\
+  Dd     & E & F & G\\
+  \hline
+\end{tabular}
+
+
+\end{frame}
+
+
+\end{document}
