@@ -1,0 +1,9 @@
+(o) int ave;
+(x) int result#3; #がはいってる
+(x) int while; whileという関数が存在するから
+(x) int 4th; 数字が入っている
+(x) int _5th; 上と同じ
+(x) int no1  no2; 各変数の間に ,がない
+(o) int no3, no4;
+(o) int sum_ave;
+(x) int sum-ave; -が入っている
