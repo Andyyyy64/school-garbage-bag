@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+int main()　/*このコードは著作権がnpJxxにあります*/
 {
     int mm, dd, sum=0,i=1;
     printf("月と日を空白で区切って入力してください　:");
