@@ -5,7 +5,7 @@ int main()
     printf("月と日を空白で区切って入力してください　:");
     scanf("%d%d",&mm,&dd);
     while(i<mm){
-        if(i==1 || i==3 || i=5 || i==7 || i=8 || i=10 || i=12)
+        if(i==1 || i==3 || i==5 || i==7 || i==8 || i==10 || i==12)
         sum += 31;
         else if(i==2)
         sum += 28;
