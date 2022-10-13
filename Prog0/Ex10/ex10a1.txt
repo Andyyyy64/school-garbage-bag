@@ -1,0 +1,29 @@
+total 56
+drwx---r-x 2 s1300107 student 4096 Jun 16 14:44 Ex01
+drwx---r-x 2 s1300107 student 4096 Jun 27 14:49 Ex02
+drwx---r-x 2 s1300107 student 4096 Jun 27 14:49 Ex03
+drwx---r-x 2 s1300107 student 4096 Jun 29 19:08 Ex04
+drwx---r-x 2 s1300107 student 4096 Jul  3 23:14 Ex05
+drwx---r-x 2 s1300107 student 4096 Jul  6 18:26 Ex06
+drwx---r-x 2 s1300107 student 4096 Jul 10 19:15 Ex07
+drwx---r-x 2 s1300107 student 4096 Jul 13 20:16 Ex08
+drwx---r-x 2 s1300107 student 4096 Jul 11 15:50 Ex09
+drwx---r-x 2 s1300107 student 4096 Jul 14 16:38 Ex10
+drwx---r-x 2 s1300107 student 4096 Jun 16 14:44 Ex11
+drwx---r-x 2 s1300107 student 4096 Jun 16 14:44 Ex12
+drwx---r-x 2 s1300107 student 4096 Jun 16 14:44 Ex13
+drwx---r-x 2 s1300107 student 4096 Jun 16 14:44 Ex14
+4	/home/student/s1300107/Prog0/Ex01
+32	/home/student/s1300107/Prog0/Ex02
+24	/home/student/s1300107/Prog0/Ex03
+64	/home/student/s1300107/Prog0/Ex04
+32	/home/student/s1300107/Prog0/Ex05
+28	/home/student/s1300107/Prog0/Ex06
+20	/home/student/s1300107/Prog0/Ex07
+60	/home/student/s1300107/Prog0/Ex08
+28	/home/student/s1300107/Prog0/Ex09
+12	/home/student/s1300107/Prog0/Ex10
+4	/home/student/s1300107/Prog0/Ex11
+4	/home/student/s1300107/Prog0/Ex12
+4	/home/student/s1300107/Prog0/Ex13
+4	/home/student/s1300107/Prog0/Ex14
